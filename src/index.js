@@ -14,7 +14,7 @@ const pca = new PublicClientApplication({
   auth: {
     clientId: 'aef2a9a8-86e2-44f5-89c3-165a47082917',
     authority: 'https://login.microsoftonline.com/89cd3d54-4149-4b03-a06f-1e4526d82250',
-    redirectUri: 'https://brave-beach-05f545b03.2.azurestaticapps.net',
+    redirectUri: 'https://msal.ahgency.be/',
   }
 })
 
